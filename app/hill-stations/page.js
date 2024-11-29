@@ -14,7 +14,7 @@ export default function HillStationTours() {
       locations: 'Delhi – Shimla – Manali – Kasol – Naldhera – Delhi',
       description: 'Discover the picturesque hill stations of Himachal Pradesh with this tour that covers Shimla, Manali, Kasol, and Naldhera. Enjoy scenic landscapes, adventure activities, and serene surroundings.',
       imageUrl: '/Assets/shimla.jpg',
-      link: '/shimla-manali-naldhera-kasol-tour',
+      link: '/shimla',
     },
     {
       title: 'Kashmir Delight Tour (D13)',
@@ -22,7 +22,7 @@ export default function HillStationTours() {
       locations: 'Delhi – Srinagar – Sonmarg – Pahalgam – Gulmarg – Srinagar - Delhi',
       description: 'Experience the breathtaking beauty of Kashmir’s valleys, lakes, and snow-capped mountains. This tour includes visits to Srinagar, Sonmarg, Pahalgam, and Gulmarg, ideal for nature lovers.',
       imageUrl: '/Assets/kashmir.jpg',
-      link: '/kashmir-delight-tour',
+      link: '/kashmir',
     },
     {
       title: 'Journey To Ladakh (D8)',
@@ -30,7 +30,7 @@ export default function HillStationTours() {
       locations: 'Leh - Nubra Valley - Leh - Pangong Lake - Leh',
       description: 'Venture into the stunning landscapes of Ladakh, with visits to Leh, Nubra Valley, Pangong Lake, and more, making this the perfect destination for adventure seekers and nature enthusiasts.',
       imageUrl: '/Assets/ladakh.jpg',
-      link: '/journey-to-ladakh',
+      link: '/ladakh',
     },
   ];
 

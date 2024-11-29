@@ -14,7 +14,7 @@ export default function NorthIndiaTours() {
       locations: 'Udaipur - Mount Abu - Jodhpur - Jaisalmer - Khimsar - Ajmer - Pushkar - Jaipur',
       description: 'Explore the royal heritage of Rajasthan, visiting historic cities like Udaipur, Jodhpur, and Jaipur. This tour takes you through palaces, forts, temples, and the desert landscapes of Jaisalmer and Khimsar.',
       imageUrl: '/Assets/rajasthan.jpg',
-      link: '/royal-rajasthan-tour',
+      link: '/rajasthan',
     },
     {
       title: 'Golden Triangle Tour (D2)',
@@ -22,7 +22,7 @@ export default function NorthIndiaTours() {
       locations: 'Delhi - Agra - Jaipur',
       description: 'Discover the iconic Golden Triangle of India, with visits to Delhi, Agra, and Jaipur. Explore the Taj Mahal, historical forts, and palaces while experiencing the rich cultural heritage of these cities.',
       imageUrl: '/Assets/agra.jpg',
-      link: '/golden-triangle-tour',
+      link: '/golden-triangle',
     },
     {
       title: 'Mesmerising Gujarat Tour (D4)',
@@ -30,7 +30,7 @@ export default function NorthIndiaTours() {
       locations: 'Mumbai - Ahmadabad - Poshina - Patan - Modhera - Dasada - Bhuj - Gondal - Junagarh - Sasan Gir - Somnath - Diu - Palitana - Bhavnagar - Mumbai Departure',
       description: 'Embark on a journey through Gujarat, visiting architectural wonders like Modhera Sun Temple, Rann of Kutch, and Sasan Gir for wildlife safaris. Explore vibrant cities and historical landmarks, ending your tour in Mumbai.',
       imageUrl: '/Assets/gujarat.jpg',
-      link: '/mesmerising-gujarat-tour',
+      link: '/gujarat',
     },
     {
       title: 'Triangle Package With Varanasi And Khajuraho (D12)',
@@ -38,7 +38,7 @@ export default function NorthIndiaTours() {
       locations: 'Delhi - Jaipur - Agra - Orchha - Khajuraho - Varanasi - Delhi',
       description: 'Combine the rich cultural heritage of the Golden Triangle with the spiritual essence of Varanasi and the architectural wonders of Khajuraho. A perfect blend of history, culture, and spirituality.',
       imageUrl: '/Assets/varanasi.jpg',
-      link: '/triangle-package-varanasi-khajuraho',
+      link: '/varanasi',
     },
     {
       title: 'Rishikesh / Shivpuri Package (D16)',
@@ -46,7 +46,7 @@ export default function NorthIndiaTours() {
       locations: 'Rishikesh - Shivpuri',
       description: 'Perfect for adventure seekers, this tour offers rafting and adventure activities in Rishikesh, along with a serene stay in Shivpuri, surrounded by the Himalayan foothills.',
       imageUrl: '/Assets/rs.jpg',
-      link: '/rishikesh-shivpuri-package',
+      link: '/shivpuri-rishikesh',
     },
     {
       title: 'Kashi Ayodhya Paryag (D17)',
@@ -54,7 +54,7 @@ export default function NorthIndiaTours() {
       locations: 'Delhi - Varanasi – Gaya – Bodhgaya – Ayodhya - Prayagraj – Chitrakoot',
       description: 'A spiritual tour covering the sacred cities of Varanasi, Ayodhya, and Prayagraj. Visit revered temples, ghats, and experience the spiritual aura of these holy places.',
       imageUrl: '/Assets/kashi.jpg',
-      link: '/kashi-ayodhya-paryag',
+      link: '/kashi',
     },
   ];
 

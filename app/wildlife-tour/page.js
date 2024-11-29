@@ -14,7 +14,7 @@ export default function WildlifeTours() {
       locations: 'Delhi - Ranthambore - Jaipur - Bharatpur - Agra - Bandhavgarh - Delhi',
       description: 'A thrilling wildlife experience, focusing on bird watching and tiger safari in some of India\'s most iconic national parks, offering incredible encounters with nature.',
       imageUrl: '/Assets/animal-gcbfa9281a_640.jpg',
-      link: '/bird-watching-tiger-safari',
+      link: '/tiger-safari',
     },
     {
       title: 'Corbett Weekend Tour (D6)',
@@ -22,7 +22,7 @@ export default function WildlifeTours() {
       locations: 'Corbett Park',
       description: 'A weekend getaway to the Corbett National Park, famous for its tigers and rich wildlife. Enjoy a perfect balance of adventure and relaxation.',
       imageUrl: '/Assets/tiger-g958ad07ab_640.jpg',
-      link: '/corbett-weekend-tour',
+      link: '/corbett-park',
     },
   ];
 

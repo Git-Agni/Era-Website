@@ -14,7 +14,7 @@ export default function PilgrimageTours() {
       locations: 'Chennai - Tirupati - Chennai',
       description: 'A spiritually enriching weekend tour to the sacred city of Tirupati, known for its famous Venkateswara Temple. A perfect blend of religious significance and cultural heritage.',
       imageUrl: '/Assets/tpb.jpg',
-      link: '/tirupati-weekend-tour',
+      link: '/tirupati',
     },
     {
       title: 'Buddhist Culture And Heritage Tour (D11)',
@@ -22,7 +22,7 @@ export default function PilgrimageTours() {
       locations: 'Delhi - Jaipur - Agra - Khajuraho - Varanasi - Bodhgaya - Rajgir - Nalanda - Patna - Delhi',
       description: 'Embark on a journey through India’s rich Buddhist heritage. Explore ancient temples, monasteries, and landmarks that have shaped Buddhist culture, from Bodhgaya to Varanasi.',
       imageUrl: '/Assets/buddh.jpg',
-      link: '/buddhist-culture-heritage-tour',
+      link: '/buddhist-culture',
     },
     {
       title: 'Triangle Package With Varanasi And Khajuraho (D12)',
@@ -30,7 +30,7 @@ export default function PilgrimageTours() {
       locations: 'Delhi - Jaipur - Agra - Orchha - Khajuraho - Varanasi - Delhi',
       description: 'This tour takes you through the architectural marvels of India’s Golden Triangle, adding the spiritual charm of Varanasi and the ancient temples of Khajuraho.',
       imageUrl: '/Assets/varanasi.jpg',
-      link: '/triangle-package-varanasi-khajuraho',
+      link: '/varanasi',
     },
     {
       title: 'Kashi Ayodhya Paryag (D17)',
@@ -38,7 +38,7 @@ export default function PilgrimageTours() {
       locations: 'Delhi - Varanasi – Gaya – Bodhgaya – Ayodhya - Prayagraj – Chitrakoot',
       description: 'Experience the religious essence of India as you visit the sacred cities of Varanasi, Ayodhya, and Prayagraj, immersed in spiritual significance and historical importance.',
       imageUrl: '/Assets/kashi.jpg',
-      link: '/kashi-ayodhya-paryag',
+      link: '/kashi',
     },
     {
       title: 'Rishikesh / Shivpuri Package (D16)',
@@ -46,7 +46,7 @@ export default function PilgrimageTours() {
       locations: 'Rishikesh - Shivpuri',
       description: 'A short getaway to Rishikesh and Shivpuri, known for spiritual retreats, yoga, and thrilling adventure sports like white-water rafting.',
       imageUrl: '/Assets/rs.jpg',
-      link: '/rishikesh-shivpuri-package',
+      link: '/shivpuri-rishikesh',
     },
   ];
 
