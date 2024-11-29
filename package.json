@@ -1,0 +1,30 @@
+{
+  "name": "era-tours",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "clsx": "^2.0.0",
+    "framer-motion": "^11.11.17",
+    "googleapis": "^144.0.0",
+    "lucide-react": "^0.263.1",
+    "next": "^15.0.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-slick": "^0.30.2",
+    "slick-carousel": "^1.8.1",
+    "tailwind-merge": "^1.14.0"
+  },
+  "devDependencies": {
+    "@types/node": "22.9.0",
+    "@types/react": "18.3.12",
+    "autoprefixer": "^10.4.15",
+    "postcss": "^8.4.30",
+    "tailwindcss": "^3.3.3",
+    "typescript": "5.6.3"
+  }
+}
